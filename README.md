@@ -1,11 +1,7 @@
-###############################################
-# MovieData Application Readme
+# MovieData Application
 
 ## Overview
 The MovieData application allows users to fetch and manage information about currently playing movies using The Movie DB (TMDB) API. It integrates with an SQLite database to store and retrieve movie details.
-
-## Prerequisites
-- Ruby installed on your machine (https://www.ruby-lang.org/)
 
 ## Setup (Using Replit)
 1. Fork this repository and import it into your Replit account.
