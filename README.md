@@ -45,7 +45,7 @@ The MovieData application allows users to fetch and manage information about cur
 
 ###############################################
 # Files Directory
-
+```ruby
 MovieData/
 |-- config/
 |   `-- config.rb
@@ -57,7 +57,7 @@ MovieData/
 |-- README.txt
 |-- schema.sql
 `-- movies.db
-
+```
 ## Directory Structure Explanation:
 
 - **config/:** Contains configuration files.
