@@ -1,4 +1,4 @@
-# MovieData Application
+#Application
 
 ## Overview
 The MovieData application allows users to fetch and manage information about currently playing movies using The Movie DB (TMDB) API. It integrates with an SQLite database to store and retrieve movie details.
